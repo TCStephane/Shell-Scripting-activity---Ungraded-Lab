@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 VAULT="$HOME/secure_vault"
 
@@ -8,5 +8,5 @@ echo "Welcome to the Secure Vault - Keys File" > "$VAULT/keys.txt"
 echo "Welcome to the Secure Vault - Secrets File" > "$VAULT/secrets.txt"
 echo "Welcome to the Secure Vault - Logs File" > "$VAULT/logs.txt"
 
-echo "✅ Secure Vault setup completed successfully!"
+echo "Secure Vault setup completed successfully!"
 ls -l "$VAULT"

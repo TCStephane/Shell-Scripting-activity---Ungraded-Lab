@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 VAULT="$HOME/secure_vault"
 REPORT="$VAULT/vault_report.txt"

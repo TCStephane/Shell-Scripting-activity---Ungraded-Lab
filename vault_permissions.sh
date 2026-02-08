@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 VAULT="$HOME/secure_vault"
 
